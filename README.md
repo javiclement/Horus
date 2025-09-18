@@ -1,6 +1,8 @@
-# Manual AceStream Engine Update for Horus Addon
+# Manual AceStream Engine Update for Horus Addon on LibreELEC
 
 This guide provides instructions to fix the "You need to buy Proxy server option" error in the Horus addon by manually updating the AceStream engine. This issue occurs because version 1.1.9 of the Horus addon installs AceStream version 3.1.48, which has a known bug. The solution is to replace it with the corrected version 3.1.61.
+
+**Note:** These instructions are specifically for **LibreELEC** and have been tested on a **Raspberry Pi 4 with 4GB of RAM running LibreELEC 12.2**.
 
 -----
 
