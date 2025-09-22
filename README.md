@@ -24,7 +24,7 @@ Follow these steps to replace the outdated AceStream engine with the new one.
 
     ```bash
     # Navigate to the correct directory
-    cd /storage/.kodi/userdata/addon_data/plugin.video.horus/acestream.engine/
+    cd /storage/.kodi/userdata/addon_data/script.module.horus/acestream.engine/
 
     # Grant execution permissions
     chmod +x acestream.start acestream.stop
