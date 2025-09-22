@@ -16,7 +16,7 @@ Follow these steps to replace the outdated AceStream engine with the new one.
 
 2.  **Locate the installation directory:** Use a file explorer or an SSH connection to navigate to your Horus addon's data path. You will find the `acestream.engine` folder inside. **Delete all its contents.**
 
-    `.../storage/.kodi/userdata/addon_data/plugin.video.horus/acestream.engine/`
+    `.../storage/.kodi/userdata/addon_data/script.module.horus/acestream.engine/`
 
 3.  **Copy the new files:** Unzip the `.tar.gz` file you downloaded in step 1 and copy all the extracted files into the now-empty `acestream.engine` folder.
 
